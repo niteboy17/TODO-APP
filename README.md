@@ -1,6 +1,17 @@
-# TODO-APP
+<div align="center">
+  <img src="screenshots/app-thumbnail.png" alt="TODO-APP Banner" width="100%"/>
+  
+  # TODO-APP
+  
+  ### A modern, feature-rich TODO application built with React Native and Convex backend for real-time data synchronization.
+  
+  [![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactnative.dev/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Convex](https://img.shields.io/badge/Convex-FF6F00?style=for-the-badge&logo=convex&logoColor=white)](https://www.convex.dev/)
+  
+</div>
 
-A modern, feature-rich TODO application built with React Native and Convex backend for real-time data synchronization.
+---
 
 ## 📋 Overview
 
@@ -152,7 +163,7 @@ CONVEX_DEPLOYMENT=your-convex-deployment-url
 
 | Light Mode | Dark Mode | Reset App |
 |------------|-----------|-----------|
-| <img src="screenshots/light-mode1.png" width="250" alt="Light Mode"/> | <img src="screenshots/dark-mode.png" width="250" alt="Dark Mode"/> | <img src="screenshots/reset-app.png" width="250" alt="Reset App"/> |
+| <img src="screenshots/light-mode.png" width="250" alt="Light Mode"/> | <img src="screenshots/dark-mode.png" width="250" alt="Dark Mode"/> | <img src="screenshots/reset-app.png" width="250" alt="Reset App"/> |
 
 </div>
 
