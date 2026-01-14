@@ -152,7 +152,7 @@ CONVEX_DEPLOYMENT=your-convex-deployment-url
 
 | Light Mode | Dark Mode | Reset App |
 |------------|-----------|-----------|
-| <img src="screenshots/light-mode.png" width="250" alt="Light Mode"/> | <img src="screenshots/dark-mode.png" width="250" alt="Dark Mode"/> | <img src="screenshots/reset-app.png" width="250" alt="Reset App"/> |
+| <img src="screenshots/light-mode1.png" width="250" alt="Light Mode"/> | <img src="screenshots/dark-mode.png" width="250" alt="Dark Mode"/> | <img src="screenshots/reset-app.png" width="250" alt="Reset App"/> |
 
 </div>
 
