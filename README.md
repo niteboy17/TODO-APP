@@ -226,22 +226,4 @@ This project is open source and available under the [MIT License](LICENSE).
 - [Convex](https://www.convex.dev/) - Backend platform
 - [TypeScript](https://www.typescriptlang.org/) - Type safety
 
-## 📞 Support
 
-If you have any questions or need help, please:
-- Open an issue in the [GitHub repository](https://github.com/niteboy17/TODO-APP/issues)
-- Check the [Convex documentation](https://docs.convex.dev/)
-- Review the [React Native documentation](https://reactnative.dev/docs/getting-started)
-
-## 🔄 Updates
-
-Stay tuned for upcoming features:
-- [ ] User authentication
-- [ ] Task categories and tags
-- [ ] Due dates and reminders
-- [ ] Dark mode support
-- [ ] Task sharing and collaboration
-
----
-
-⭐ If you find this project helpful, please consider giving it a star on GitHub!
