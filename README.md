@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="screenshots/app-thumbnail.png" alt="TODO-APP Banner" width="100%"/>
+  <img src="screenshots/app-thumbnail.jpeg" alt="TODO-APP Banner" width="100%"/>
   
   # TODO-APP
   
